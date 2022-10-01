@@ -1,8 +1,8 @@
-# HW - 1
+# HW - 1 
 value = 10
 print ("Even number") if value % 2 == 0 else print("Odd number")
 
-# HW - 2
+# HW - 2 
 cat = "Bark"
 if cat == "Meow":
     print ("This is a cat.")
@@ -11,7 +11,7 @@ elif cat == "Bark":
 else:
     print ("Unknown beast.")
 
-# HW - 3
+# HW - 3 
 value = 2
 if value == 0:
    print ("Number is 0")
