@@ -1,4 +1,4 @@
-age = 25
+age = 25.5
 name = "John"
 print ("My name is "+ name + ".")
 print ("I am "+ str(age) + " years.")
