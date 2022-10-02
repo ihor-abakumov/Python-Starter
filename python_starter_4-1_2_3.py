@@ -9,7 +9,7 @@ for number in range(98):
     number_fib1 = number_fib2
     number_fib2 = number_fib3
     print (number_fib2)
-print ("-----------")
+print ("------------")
 
 print ("Exercise 2")
 word = "Hello world"
