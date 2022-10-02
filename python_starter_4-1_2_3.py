@@ -19,7 +19,7 @@ for char in word:
     if char == "l":
         char = "e"
     print (char)
-print ("-----------")
+print ("------------")
 
 print ("Exercise 3")
 word = "Hamaaa"
