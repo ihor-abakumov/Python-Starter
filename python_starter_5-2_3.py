@@ -5,7 +5,7 @@ for i in a:
     if i < 6:
         b.append(i)
 print (b)
-print("-------------------------")
+print("-----------------------")
 
 # HW - 2
 a = ['red', 'yellow', 'blue', 'bread']
