@@ -5,12 +5,12 @@ def summa_int (a, b):
     if type(a) != int or type (b) != int:
         return None, 1
     elif a + b >= 0: 
-        return a + b, 1
+        return a + b, 0
     elif a + b < 0: 
         return a + b, -1
     
     
-sum_, code_ = summa_int (20, 0)
+sum_, code_ = summa_int (20, 1)
 print (sum_)
 print (code_)
 
